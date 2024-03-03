@@ -2,7 +2,7 @@
 
 <h2>🚀 Welcome to the URL Shortener project!</h2><be>
   
-<h3>This project uses Node.js, Express.js, and MongoDB to provide a simple and efficient solution for shortening long URLs.</h3> <be>
+This project uses Node.js, Express.js, and MongoDB to provide a simple and efficient solution for shortening long URLs.<be>
 
 <h2>Features:</h2>
 
@@ -21,9 +21,7 @@
 -Node.js installed
 -MongoDB set up
 
-1. Clone the Repository:
-   [(git clone https://github.com/your-username/url-shortener.git
-)]
+   
 
 
 
